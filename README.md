@@ -1,4 +1,4 @@
-# MERN Exam Management System
+# PERN Exam Management System
 
 A comprehensive online exam management platform built with React, Node.js, Express, and PostgreSQL. This system enables instructors to create and manage exams, students to take secure exams, and administrators to oversee the entire system.
 
