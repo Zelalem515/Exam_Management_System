@@ -1,4 +1,4 @@
-# MERN Exam Management System - Complete Documentation
+# PERN Exam Management System - Complete Documentation
 
 **Project Type:** PERN Stack Mini Project
 
