@@ -1,4 +1,4 @@
-# Quick Setup Guide
+# Setup Guide for PERN Stack Exam Management System
 
 ## Prerequisites
 - Node.js v14+
@@ -7,8 +7,8 @@
 
 ## Step 1: Clone Repository
 ```bash
-git clone <your-repo-url>
-cd exam-management-system
+git clone https://github.com/Zelalem515/Exam_Management_System.git
+cd Exam_Management_System
 ```
 
 ## Step 2: Backend Setup

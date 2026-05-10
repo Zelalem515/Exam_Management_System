@@ -99,6 +99,16 @@ A comprehensive online exam management platform built with React, Node.js, Expre
 - PostgreSQL (v12 or higher)
 - npm or yarn
 
+### Quick Start
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/Zelalem515/Exam_Management_System.git
+cd Exam_Management_System
+```
+
+2. **Follow the SETUP_GUIDE.md** for detailed installation steps
+
 ### Backend Setup
 
 1. **Navigate to server directory:**
