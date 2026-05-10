@@ -145,9 +145,7 @@ npm start
 
 ## Next Steps
 
-1. Read `EXAM_SYSTEM_DOCUMENTATION.md` for complete feature documentation
-2. Check `explaining.md` for technical deep-dive
-3. Review `bulk_enrollment_logic.md` for CSV enrollment details
+. Read `EXAM_SYSTEM_DOCUMENTATION.md` for complete feature documentation
 
 ## Support
 
