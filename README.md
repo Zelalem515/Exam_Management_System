@@ -217,8 +217,8 @@ Ans: B
 
 ```csv
 full_name,email,password,department
-John Doe,john@example.com,password123,Computer Science
-Jane Smith,jane@example.com,password456,Information Technology
+Zelalem Birhan,zed@example.com,password123,Computer Science
+Abebe Alemu,abebe@example.com,password456,Information Technology
 ```
 
 ## API Endpoints
